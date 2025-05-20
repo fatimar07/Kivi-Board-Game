@@ -16,15 +16,25 @@ Java Board Game with AI opponents.
 
 
 📝 How to Play
+
 Start the Game
+
 Launch the game and choose “New Game” from the main menu.
+
 ![new game](https://github.com/user-attachments/assets/34ae7b15-4555-468e-9062-c3f187e2ba01)
 
+
+
 Select Players
+
 ![player selection](https://github.com/user-attachments/assets/58bec59e-31e6-4a4d-9113-fd595ef4320e)
 
+
+
 Choose up to 4 players (any combination of humans and robots). Robots can be set to “Normal” or “Evil” difficulty.
+
 ![Capture](https://github.com/user-attachments/assets/7bc2aec2-c9b5-49cb-9c3d-e793b85fc922)
+
 
 Gameplay
 
