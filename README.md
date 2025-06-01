@@ -1,22 +1,47 @@
-# Kivi-Board-Game
-Java Board Game with AI opponents.
+# 🎲 Kivi Board Game
 
-🎮 Game Features:
+**A Java-based digital board game featuring AI opponents.**
 
-Pattern-Based Gameplay: Match dice to tile patterns to score.
+---
 
-🎲 Roll & Match: Roll six dice each turn and choose tiles matching the roll.
+## 📚 About the Project
+Kivi Board Game is a digital adaptation of the popular board game **Kivi**, developed as part of the **COMP 2005: Software Engineering** course at **Memorial University of Newfoundland**.
 
-🤖 Robot Opponents: Play against Normal or Evil AI characters.
+Working collaboratively with a team of four classmates, we transformed the board game into an interactive, Java-based application. Our project was recognized as the **best in class** and received a **perfect score**.
 
-👥 Up to 4 Players: Mix of human and robot players.
+Due to course requirements, the source code cannot be shared publicly. However, a live executable version of the game along with code documentation is available.
 
-🎨 Colorful Characters: Choose from Pico, Luna, Byte, Milo, and more.
+---
 
-🕹️ Easy-to-Use Interface: Point-and-click style interaction.
+## 🖥️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+
+---
+
+## 🎮 Key Features
+- 🎲 **Pattern-Based Gameplay**: Match rolled dice to tile patterns to score points.
+- 🎲 **Roll & Match Mechanics**: Roll six dice each turn and select matching tiles.
+- 🤖 **AI Opponents**: Challenge Normal or Evil AI characters with varying strategies.
+- 🧑‍🤝‍🧑 **Multiplayer Mode**: Supports up to 4 players — mix of human and AI players.
+- 🌈 **AI-Generated Characters**: Choose from Pico, Luna, Byte, Milo, and more.
+- 🖱️ **User-Friendly Interface**: Intuitive point-and-click interaction.
+
+---
+
+## ⏬ How to Play
+
+### Prerequisite:
+- Ensure you have the **latest version of Java** installed on your machine.
+
+### Installation:
+1. Download the `KomputerKivi.jar` file.
+2. Open a command terminal in the folder containing the `.jar` file.
+3. Run the following command:
+   ```bash
+   java -jar KomputerKivi.jar
 
 
-📝 **How to Play**
 
 **Start the Game: Launch the game and choose “New Game” from the main menu.**
 
